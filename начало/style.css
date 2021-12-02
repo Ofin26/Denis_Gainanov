@@ -1,0 +1,30 @@
+h1 {
+    color:red;
+}
+#title{
+    color:teal;
+    font-size: 15px;
+}
+.text{
+    font-size: 1.1rem;
+    line-height: 40px;
+}
+span{
+    color: green;
+}
+.card-list{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+.card {
+    padding: 100px;
+    margin: 20px;
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+}
+
+    
